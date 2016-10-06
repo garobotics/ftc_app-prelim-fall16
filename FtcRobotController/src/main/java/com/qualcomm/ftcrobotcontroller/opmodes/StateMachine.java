@@ -21,7 +21,7 @@ import com.qualcomm.robotcore.util.Range;
             DRIVE_TO_PLATFORM,
             PARK_ON_PLATFORM,
             STOP
-            };
+            }
 // possible values for state because it is an enum
 
 public class StateMachine extends OpMode {
